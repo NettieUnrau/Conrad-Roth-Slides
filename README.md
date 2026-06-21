@@ -2,10 +2,10 @@
 
 *Light & Lens · Exhibit 01*
 
-<img width="3024" height="4032" alt="Box of Conrad Roth Slides_4591" src="https://github.com/user-attachments/assets/b458c36e-4bf2-43f5-b0f9-96d422fae838" />
+<img width="1779" height="1687" alt="img004" src="https://github.com/user-attachments/assets/0c4897f8-17f5-42aa-977d-ebce6c85ec85" />
 
 A collection of mid-twentieth-century Kodachrome slides by **Conrad Roth** 
-(Portsmouth, Ohio), a local naturalist who photographed the trees, plants, 
+(1877-1959, Portsmouth, Ohio), a local naturalist who photographed the trees, plants, 
 trails, and landscapes of the southern Ohio region. A 1949 newspaper notice 
 records Roth as a guest speaker on native birds — situating these images 
 within a life of amateur natural observation and community education.
@@ -18,6 +18,8 @@ record of a naturalist's eye.
 
 ### The Collection as Found
 ![Box of Conrad Roth slides](images/roth-box.jpg)
+
+<img width="3024" height="4032" alt="Box of Conrad Roth Slides_4591" src="https://github.com/user-attachments/assets/b458c36e-4bf2-43f5-b0f9-96d422fae838" />
 
 **Collection:** Conrad Roth Slides  
 **Date:** slides c. 1940s–1950s  
@@ -52,7 +54,8 @@ subject — close attention to individual trees and the wider Ohio countryside.
 ![Uploading Portsmouth-Times-Oct,14-1949-p-23 (1).jpeg…]()
 Times clipping, October 14, 1949](images/roth-clipping.jpg)
 
-![Uploading Portsmouth-Times-Oct,14-1949-p-23 (1).jpeg…]()
+<img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 (2)" src="https://github.com/user-attachments/assets/d835364a-3f17-4d7c-849a-f7869438f7d3" />
+<img width="1779" height="1687" alt="img004" src="https://github.com/user-attachments/assets/28034c83-70c3-4289-bfad-582ad440d6d6" />
 
 **Source:** *Portsmouth Times*, October 14, 1949, p. 23  
 **Description:** A notice for a Roosevelt School P.T.A. meeting at which 
