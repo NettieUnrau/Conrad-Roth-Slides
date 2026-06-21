@@ -51,8 +51,7 @@ subject — close attention to individual trees and the wider Ohio countryside.
 
 Times clipping, October 14, 1949
 
-<img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 (2)" src="https://github.com/user-attachments/assets/d835364a-3f17-4d7c-849a-f7869438f7d3" />
-
+<img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 
 **Source:** *Portsmouth Times*, October 14, 1949, p. 23  
 **Description:** A notice for a Roosevelt School P.T.A. meeting at which 
 Conrad Roth, described as a local naturalist with a hobby of observing 
