@@ -59,7 +59,7 @@ educational purposes.
 
 ---
 
-### "Archival and Preservation Notes"
+### Archival and Preservation Notes
 
 This collection is being documented as a preservation and access project. Work includes:
 
