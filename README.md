@@ -17,7 +17,6 @@ record of a naturalist's eye.
 ---
 
 ### The Collection as Found
-![Box of Conrad Roth slides](images/roth-box.jpg)
 
 <img width="3024" height="4032" alt="Box of Conrad Roth Slides_4591" src="https://github.com/user-attachments/assets/b458c36e-4bf2-43f5-b0f9-96d422fae838" />
 
@@ -34,7 +33,6 @@ preserves the order and condition in which it survived.
 ---
 
 ### In the Field
-![Roth slide — figure with large tree](images/roth-field.jpg)
 
 <img width="1745" height="1788" alt="img009" src="https://github.com/user-attachments/assets/96ed2077-32d3-429e-92b3-3d939c2d34e7" />
 
@@ -50,12 +48,10 @@ subject — close attention to individual trees and the wider Ohio countryside.
 ---
 
 ### "Movies Of Pupils To Be Shown For P.T.A."
-![Portsmouth <img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 (1)" src="https://github.com/user-attachments/assets/e9d58474-99b3-420d-ba36-007b6f14db0f" />
-![Uploading Portsmouth-Times-Oct,14-1949-p-23 (1).jpeg…]()
+
 Times clipping, October 14, 1949](images/roth-clipping.jpg)
 
 <img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 (2)" src="https://github.com/user-attachments/assets/d835364a-3f17-4d7c-849a-f7869438f7d3" />
-<img width="1779" height="1687" alt="img004" src="https://github.com/user-attachments/assets/28034c83-70c3-4289-bfad-582ad440d6d6" />
 
 **Source:** *Portsmouth Times*, October 14, 1949, p. 23  
 **Description:** A notice for a Roosevelt School P.T.A. meeting at which 
