@@ -49,7 +49,7 @@ subject — close attention to individual trees and the wider Ohio countryside.
 
 ### "Movies Of Pupils To Be Shown For P.T.A."
 
-Times clipping, October 14, 1949](images/roth-clipping.jpg)
+Times clipping, October 14, 1949
 
 <img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 (2)" src="https://github.com/user-attachments/assets/d835364a-3f17-4d7c-849a-f7869438f7d3" />
 
