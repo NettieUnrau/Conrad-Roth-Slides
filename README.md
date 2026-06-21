@@ -1,4 +1,4 @@
-# Conrad-Roth-Slides
+# Conrad Roth Slides
 
 *Light & Lens · Exhibit 01*
 
