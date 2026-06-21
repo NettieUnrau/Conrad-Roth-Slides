@@ -4,15 +4,11 @@
 
 <img width="1779" height="1687" alt="img004" src="https://github.com/user-attachments/assets/0c4897f8-17f5-42aa-977d-ebce6c85ec85" />
 
-A collection of mid-twentieth-century Kodachrome slides by **Conrad Roth** 
-(1877-1959, Portsmouth, Ohio), a local naturalist who photographed the trees, plants, 
-trails, and landscapes of the southern Ohio region. A 1949 newspaper notice 
-records Roth as a guest speaker on native birds — situating these images 
-within a life of amateur natural observation and community education.
+The Conrad Roth Slides are a small archival collection of mid-twentieth-century Kodachrome photographs created by Conrad Roth (1877–1959) of Portsmouth, Ohio. A naturalist, photographer, and community educator, Roth documented the trees, plants, trails, and landscapes of southern Ohio through color photography during the 1940s and 1950s.
 
-The collection survives as Roth labeled and mounted it: individual scenes 
-hand-titled ("Hollyhock," "Forest Trail," "West Chimney"), each a small 
-record of a naturalist's eye.
+This digital exhibit documents both the images themselves and the archival process used to preserve, describe, and interpret the collection. The collection survives substantially as Roth labeled and mounted it, preserving the creator's own arrangement and descriptions. Individual scenes are hand-titled ("Hollyhock," "Forest Trail," "West Chimney"), each a small record of a naturalist's eye and an example of mid-century amateur nature photography. By combining physical artifacts, historical research, and contemporary digital access, the project demonstrates how small personal collections can contribute to local history and environmental heritage.
+
+A 1949 newspaper notice identifies Roth as a local naturalist and speaker on native birds, providing important context for understanding the photographs as part of a lifelong interest in observing and documenting the natural world.
 
 ---
 
@@ -60,6 +56,22 @@ native birds, was the featured speaker. The clipping anchors Roth in time
 and place and confirms his standing in the community.  
 **Rights:** *Portsmouth Times*, 1949. Reproduced for research and 
 educational purposes.  
+
+---
+
+### "Archival and Preservation Notes"
+
+This collection is being documented as a preservation and access project. Work includes:
+
+Collection assessment and documentation
+Preservation of original order where present
+Identification of creators and provenance
+Item-level description
+Digitization and image management
+Historical and contextual research
+Public access through digital exhibition
+
+The goal is to preserve both the physical collection and the historical information embedded within it, while making the materials discoverable for researchers, local historians, genealogists, and the public.
 
 ---
 
