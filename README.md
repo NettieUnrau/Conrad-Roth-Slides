@@ -4,75 +4,52 @@
 
 <img width="1779" height="1687" alt="img004" src="https://github.com/user-attachments/assets/0c4897f8-17f5-42aa-977d-ebce6c85ec85" />
 
-The Conrad Roth Slides are a small archival collection of mid-twentieth-century Kodachrome photographs created by Conrad Roth (1877–1959) of Portsmouth, Ohio. A naturalist, photographer, and community educator, Roth documented the trees, plants, trails, and landscapes of southern Ohio through color photography during the 1940s and 1950s.
+### Project Summary
 
-This digital exhibit documents both the images themselves and the archival process used to preserve, describe, and interpret the collection. The collection survives substantially as Roth labeled and mounted it, preserving the creator's own arrangement and descriptions. Individual scenes are hand-titled ("Hollyhock," "Forest Trail," "West Chimney"), each a small record of a naturalist's eye and an example of mid-century amateur nature photography. By combining physical artifacts, historical research, and contemporary digital access, the project demonstrates how small personal collections can contribute to local history and environmental heritage.
+The Conrad Roth Slides Collection is a small archival collection of mid-twentieth-century Kodachrome photographs documenting the landscapes, plants, trees, and natural features of southern Ohio.
 
-A 1949 newspaper notice identifies Roth as a local naturalist and speaker on native birds, providing important context for understanding the photographs as part of a lifelong interest in observing and documenting the natural world.
+Created by Conrad Roth (1877–1959) of Portsmouth, Ohio, the collection provides insight into amateur nature photography, local environmental history, and community education during the 1940s and 1950s.
 
----
-
-### The Collection as Found
-
-<img width="3024" height="4032" alt="Box of Conrad Roth Slides_4591" src="https://github.com/user-attachments/assets/b458c36e-4bf2-43f5-b0f9-96d422fae838" />
-
-**Collection:** Conrad Roth Slides  
-**Date:** slides c. 1940s–1950s  
-**Format:** Kodachrome slides in original mounts, as housed  
-**Description:** The collection in its found state — dozens of mounted 
-Kodachrome slides, several bearing Roth's printed name ("Conrad Roth, 
-Portsmouth, Ohio") and handwritten titles such as "Hollyhock" and "Forest 
-Trail." Documenting an archive *as received*, before sorting and rehousing, 
-preserves the order and condition in which it survived.  
-**Provenance:** Conrad Roth, Portsmouth, Ohio.
+This repository documents the archival processing, historical research, preservation assessment, and digital exhibition of the collection.
 
 ---
 
-### In the Field
-
-<img width="1745" height="1788" alt="img009" src="https://github.com/user-attachments/assets/96ed2077-32d3-429e-92b3-3d939c2d34e7" />
-
-**Collection:** Conrad Roth Slides  
-**Date:** n.d., c. 1940s–1950s  
-**Format:** 2×2 in. Kodachrome color slide  
-**Description:** A man in coat and hat, holding a camera, examines a large 
-tree in a bare-branched autumn or winter landscape. Likely Conrad Roth 
-himself, though unconfirmed. The image reflects the collection's recurring 
-subject — close attention to individual trees and the wider Ohio countryside.  
-**Provenance:** Conrad Roth, Portsmouth, Ohio.
+### Project Components
+- Collection assessment
+- Provenance research
+- Creator identification
+- Historical context
+- Inventory creation
+- Metadata development
+- Digitization planning
+- Public interpretation
 
 ---
 
-### "Movies Of Pupils To Be Shown For P.T.A."
+ ### Research Question
 
-Times clipping, October 14, 1949
+Who was Conrad Roth, and what can this collection reveal about his work as a naturalist and photographer in southern Ohio?
 
-<img width="987" height="997" alt="Portsmouth-Times-Oct,14-1949-p-23 (1)" src="https://github.com/user-attachments/assets/f4523215-dc93-461f-a0ef-073b4d6e5fbe" />
+### Key Findings
 
-**Source:** *Portsmouth Times*, October 14, 1949, p. 23  
-**Description:** A notice for a Roosevelt School P.T.A. meeting at which 
-Conrad Roth, described as a local naturalist with a hobby of observing 
-native birds, was the featured speaker. The clipping anchors Roth in time 
-and place and confirms his standing in the community.  
-**Rights:** *Portsmouth Times*, 1949. Reproduced for research and 
-educational purposes.  
+Research identified Conrad Roth as:
 
----
+- Photographer
+- Amateur naturalist
+- Community lecturer
+- Observer of native birds and landscapes
 
-### Archival and Preservation Notes
+A 1949 newspaper article places Roth as a featured speaker discussing native birds at a Portsmouth school P.T.A. meeting, providing valuable context for understanding the collection.
 
-This collection is being documented as a preservation and access project. Work includes:
+### Current Status
+- Collection documented as found
+- Creator identified
+- Initial historical research completed
+- Digital exhibit created
+- Full item inventory
+- Item-level metadata
+- Expanded biographical research
 
-Collection assessment and documentation
-Preservation of original order where present
-Identification of creators and provenance
-Item-level description
-Digitization and image management
-Historical and contextual research
-Public access through digital exhibition
-
-The goal is to preserve both the physical collection and the historical information embedded within it, while making the materials discoverable for researchers, local historians, genealogists, and the public.
-
----
-
-*Part of [Light & Lens](../) · [People & Projects](../../)*
+### Research Journal
+What I learned: 
+Observe, record everything, research everything, record more, research more, generate lots of documentation. Equals, too much unfocused content, time consuming, cost ineffective, creates more work, not sustainable. A client project needs a Question, Observation, Analysis, Research, Conclusion, and finally, a Deliverable. Date: 21 June 2026, AU.
